@@ -1,0 +1,734 @@
+date,season,design,trial,batch_size,room_temp,extraction_temp,pressure,extraction_time,volume,yield_ml_per_kg,plant_type,part,condition
+,,,,kg,oC,oC,(bar),(minutes),(ml),,,,
+2024-05-01 00:00:00,Summer,Old-Single Grate,1,10,40,96,1.01325,70,11.666666666666666,1.1666666666666665,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,1,20,40,96,1.01325,95,23.33,1.1664999999999999,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,1,30,40,96,1.01325,150,35,1.1666666666666667,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,2,10,40,95,1.01325,80,12.333333333333334,1.2333333333333334,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,2,20,40,95,1.01325,110,24.67,1.2335,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,2,30,40,95,1.01325,150,37,1.2333333333333334,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,3,10,40,97,1.01325,90,11.666666666666666,1.1666666666666665,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,3,20,40,97,1.01325,125,23.33,1.1664999999999999,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-01 00:00:00,Summer,Old-Single Grate,3,30,40,97,1.01325,150,35,1.1666666666666667,Eucalyptus ,Leave,Fresh Part used without washing
+2024-05-02 00:00:00,Summer,Old-Single Grate,4,10,38,96,1.01325,70,12.333333333333334,1.2333333333333334,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,4,20,38,96,1.01325,95,24.67,1.2335,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,4,30,38,96,1.01325,165,37,1.2333333333333334,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,5,10,38,95,1.01325,80,12.666666666666666,1.2666666666666666,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,5,20,38,95,1.01325,110,25.33,1.2665,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,5,30,38,95,1.01325,165,38,1.2666666666666666,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,6,10,38,97,1.01325,90,12.333333333333334,1.2333333333333334,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,6,20,38,97,1.01325,125,24.67,1.2335,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-02 00:00:00,Summer,Old-Single Grate,6,30,38,97,1.01325,165,37,1.2333333333333334,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-05-03 00:00:00,Summer,Old-Single Grate,7,10,40,96,1.01325,70,13.666666666666666,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,7,20,40,96,1.01325,95,27.33,1.3664999999999998,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,7,30,40,96,1.01325,135,41,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,8,10,40,95,1.01325,80,13.666666666666666,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,8,20,40,95,1.01325,110,27.33,1.3664999999999998,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,8,30,40,95,1.01325,135,41,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,9,10,40,97,1.01325,90,13.333333333333334,1.3333333333333335,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,9,20,40,97,1.01325,125,26.67,1.3335000000000001,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-03 00:00:00,Summer,Old-Single Grate,9,30,40,97,1.01325,135,40,1.3333333333333333,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-05-04 00:00:00,Summer,Old-Single Grate,10,10,36,96,1.01325,70,11,1.1,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,10,20,36,96,1.01325,95,22,1.1,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,10,30,36,96,1.01325,150,33,1.1,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,11,10,36,95,1.01325,80,10.333333333333334,1.0333333333333334,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,11,20,36,95,1.01325,110,20.67,1.0335,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,11,30,36,95,1.01325,150,31,1.0333333333333334,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,12,10,36,97,1.01325,90,10.666666666666666,1.0666666666666667,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,12,20,36,97,1.01325,125,21.33,1.0665,Geranium ,Leave,Fresh Part used without washing
+2024-05-04 00:00:00,Summer,Old-Single Grate,12,30,36,97,1.01325,150,32,1.0666666666666667,Geranium ,Leave,Fresh Part used without washing
+2024-05-05 00:00:00,Summer,Old-Single Grate,13,10,38,96,1.01325,70,12.333333333333334,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,13,20,38,96,1.01325,95,24.67,1.2335,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,13,30,38,96,1.01325,165,37,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,14,10,38,95,1.01325,80,12.333333333333334,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,14,20,38,95,1.01325,110,24.67,1.2335,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,14,30,38,95,1.01325,165,37,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,15,10,38,97,1.01325,90,12.666666666666666,1.2666666666666666,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,15,20,38,97,1.01325,125,25.33,1.2665,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-05 00:00:00,Summer,Old-Single Grate,15,30,38,97,1.01325,165,38,1.2666666666666666,Geranium ,Leave,Fresh Part wash and used immediately
+2024-05-06 00:00:00,Summer,Old-Single Grate,16,10,40,96,1.01325,70,11.666666666666666,1.1666666666666665,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,16,20,40,96,1.01325,95,23.33,1.1664999999999999,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,16,30,40,96,1.01325,135,35,1.1666666666666667,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,17,10,40,95,1.01325,80,12,1.2,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,17,20,40,95,1.01325,110,24,1.2,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,17,30,40,95,1.01325,135,36,1.2,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,18,10,40,97,1.01325,90,12.333333333333334,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,18,20,40,97,1.01325,125,24.67,1.2335,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-06 00:00:00,Summer,Old-Single Grate,18,30,40,97,1.01325,135,37,1.2333333333333334,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-05-07 00:00:00,Summer,Old-Single Grate,19,10,35,96,1.01325,70,10,1,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,19,20,35,96,1.01325,95,20,1,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,19,30,35,96,1.01325,150,30,1,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,20,10,35,95,1.01325,80,9.333333333333334,0.9333333333333333,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,20,20,35,95,1.01325,110,18.67,0.9335000000000001,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,20,30,35,95,1.01325,150,28,0.9333333333333333,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,21,10,35,97,1.01325,90,9,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,21,20,35,97,1.01325,125,18,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-05-07 00:00:00,Summer,Old-Single Grate,21,30,35,97,1.01325,150,27,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-05-08 00:00:00,Summer,Old-Single Grate,22,10,33,96,1.01325,70,9.666666666666666,0.9666666666666666,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,22,20,33,96,1.01325,95,19.33,0.9664999999999999,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,22,30,33,96,1.01325,165,29,0.9666666666666667,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,23,10,33,95,1.01325,80,10.333333333333334,1.0333333333333334,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,23,20,33,95,1.01325,110,20.67,1.0335,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,23,30,33,95,1.01325,165,31,1.0333333333333334,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,24,10,33,97,1.01325,90,10,1,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,24,20,33,97,1.01325,125,20,1,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-08 00:00:00,Summer,Old-Single Grate,24,30,33,97,1.01325,165,30,1,Lavender ,Flower,Fresh Part wash and used immediately
+2024-05-09 00:00:00,Summer,Old-Single Grate,25,10,40,96,1.01325,70,9.333333333333334,0.9333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,25,20,40,96,1.01325,95,18.67,0.9335000000000001,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,25,30,40,96,1.01325,135,28,0.9333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,26,10,40,95,1.01325,80,9.333333333333334,0.9333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,26,20,40,95,1.01325,110,18.67,0.9335000000000001,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,26,30,40,95,1.01325,135,28,0.9333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,27,10,40,97,1.01325,90,9.666666666666666,0.9666666666666666,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,27,20,40,97,1.01325,125,19.33,0.9664999999999999,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-09 00:00:00,Summer,Old-Single Grate,27,30,40,97,1.01325,135,29,0.9666666666666667,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-05-10 00:00:00,Summer,Old-Single Grate,28,10,37,96,1.01325,70,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,28,20,37,96,1.01325,95,13.33,0.6665,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,28,30,37,96,1.01325,150,20,0.6666666666666666,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,29,10,37,95,1.01325,80,7,0.7,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,29,20,37,95,1.01325,110,14,0.7,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,29,30,37,95,1.01325,150,21,0.7,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,30,10,37,97,1.01325,90,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,30,20,37,97,1.01325,125,13.33,0.6665,Rose,Flower,Fresh Part used without washing
+2024-05-10 00:00:00,Summer,Old-Single Grate,30,30,37,97,1.01325,150,20,0.6666666666666666,Rose,Flower,Fresh Part used without washing
+2024-05-11 00:00:00,Summer,Old-Single Grate,31,10,34,96,1.01325,70,7,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,31,20,34,96,1.01325,95,14,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,31,30,34,96,1.01325,165,21,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,32,10,34,95,1.01325,80,7.666666666666667,0.7666666666666667,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,32,20,34,95,1.01325,110,15.33,0.7665,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,32,30,34,95,1.01325,165,23,0.7666666666666667,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,33,10,34,97,1.01325,90,7,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,33,20,34,97,1.01325,125,14,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-11 00:00:00,Summer,Old-Single Grate,33,30,34,97,1.01325,165,21,0.7,Rose,Flower,Fresh Part wash and used immediately
+2024-05-12 00:00:00,Summer,Old-Single Grate,34,10,37,96,1.01325,70,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,34,20,37,96,1.01325,95,13.33,0.6665,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,34,30,37,96,1.01325,135,20,0.6666666666666666,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,35,10,37,95,1.01325,80,7.333333333333333,0.7333333333333333,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,35,20,37,95,1.01325,110,14.67,0.7335,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,35,30,37,95,1.01325,135,22,0.7333333333333333,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,36,10,37,97,1.01325,90,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,36,20,37,97,1.01325,125,13.33,0.6665,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-12 00:00:00,Summer,Old-Single Grate,36,30,37,97,1.01325,135,20,0.6666666666666666,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-05-13 00:00:00,Summer,Old-Single Grate,37,10,40,96,1.01325,70,7.666666666666667,0.7666666666666667,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,37,20,40,96,1.01325,95,15.33,0.7665,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,37,30,40,96,1.01325,150,23,0.7666666666666667,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,38,10,40,95,1.01325,80,8.333333333333334,0.8333333333333334,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,38,20,40,95,1.01325,110,16.67,0.8335000000000001,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,38,30,40,95,1.01325,150,25,0.8333333333333334,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,39,10,40,97,1.01325,90,7.333333333333333,0.7333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,39,20,40,97,1.01325,125,14.67,0.7335,Chafa,Flower,Fresh Part used without washing
+2024-05-13 00:00:00,Summer,Old-Single Grate,39,30,40,97,1.01325,150,22,0.7333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-05-14 00:00:00,Summer,Old-Single Grate,40,10,35,96,1.01325,70,8,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,40,20,35,96,1.01325,95,16,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,40,30,35,96,1.01325,165,24,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,41,10,35,95,1.01325,80,9,0.9,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,41,20,35,95,1.01325,110,18,0.9,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,41,30,35,95,1.01325,165,27,0.9,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,42,10,35,97,1.01325,90,8,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,42,20,35,97,1.01325,125,16,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-14 00:00:00,Summer,Old-Single Grate,42,30,35,97,1.01325,165,24,0.8,Chafa,Flower,Fresh Part wash and used immediately
+2024-05-15 00:00:00,Summer,Old-Single Grate,43,10,38,96,1.01325,70,7.666666666666667,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,43,20,38,96,1.01325,95,15.33,0.7665,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,43,30,38,96,1.01325,135,23,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,44,10,38,95,1.01325,80,8.666666666666666,0.8666666666666666,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,44,20,38,95,1.01325,110,17.33,0.8664999999999999,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,44,30,38,95,1.01325,135,26,0.8666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,10,38,97,1.01325,90,7.666666666666667,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,20,38,97,1.01325,125,15.33,0.7665,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,30,38,97,1.01325,135,23,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,10,38,96,1.01325,70,7.666666666666667,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,20,38,96,1.01325,95,15.33,0.7665,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-15 00:00:00,Summer,Old-Single Grate,45,30,38,96,1.01325,135,23,0.7666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-05-17 00:00:00,Summer,Old-Single Grate,46,10,36,96,1.01325,70,8,0.8,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,46,20,36,96,1.01325,95,16,0.8,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,46,30,36,96,1.01325,150,24,0.8,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,47,10,36,95,1.01325,80,8.333333333333334,0.8333333333333334,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,47,20,36,95,1.01325,110,16.67,0.8335000000000001,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,47,30,36,95,1.01325,150,25,0.8333333333333334,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,48,10,36,97,1.01325,90,7.666666666666667,0.7666666666666667,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,48,20,36,97,1.01325,125,15.33,0.7665,Mogra,Flower,Fresh Part used without washing
+2024-05-17 00:00:00,Summer,Old-Single Grate,48,30,36,97,1.01325,150,23,0.7666666666666667,Mogra,Flower,Fresh Part used without washing
+2024-05-18 00:00:00,Summer,Old-Single Grate,49,10,32,96,1.01325,70,8.666666666666666,0.8666666666666666,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,49,20,32,96,1.01325,95,17.33,0.8664999999999999,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,49,30,32,96,1.01325,165,26,0.8666666666666667,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,50,10,32,95,1.01325,80,9,0.9,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,50,20,32,95,1.01325,110,18,0.9,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,50,30,32,95,1.01325,165,27,0.9,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,51,10,32,97,1.01325,90,8.333333333333334,0.8333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,51,20,32,97,1.01325,125,16.67,0.8335000000000001,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-18 00:00:00,Summer,Old-Single Grate,51,30,32,97,1.01325,165,25,0.8333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2024-05-19 00:00:00,Summer,Old-Single Grate,52,10,38,96,1.01325,70,8,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,52,20,38,96,1.01325,95,16,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,52,30,38,96,1.01325,135,24,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,53,10,38,95,1.01325,80,9,0.9,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,53,20,38,95,1.01325,110,18,0.9,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,53,30,38,95,1.01325,135,27,0.9,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,54,10,38,97,1.01325,90,8,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,54,20,38,97,1.01325,125,16,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-19 00:00:00,Summer,Old-Single Grate,54,30,38,97,1.01325,135,24,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-05-20 00:00:00,Summer,Old-Single Grate,55,10,36,96,1.01325,70,8.666666666666666,0.8666666666666666,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,55,20,36,96,1.01325,95,17.33,0.8664999999999999,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,55,30,36,96,1.01325,150,26,0.8666666666666667,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,56,10,36,95,1.01325,80,9.666666666666666,0.9666666666666666,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,56,20,36,95,1.01325,110,19.33,0.9664999999999999,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,56,30,36,95,1.01325,150,29,0.9666666666666667,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,57,10,36,97,1.01325,90,8.333333333333334,0.8333333333333334,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,57,20,36,97,1.01325,125,16.67,0.8335000000000001,Tagari ,Flower,Fresh Part used without washing
+2024-05-20 00:00:00,Summer,Old-Single Grate,57,30,36,97,1.01325,150,25,0.8333333333333334,Tagari ,Flower,Fresh Part used without washing
+2024-05-21 00:00:00,Summer,Old-Single Grate,58,10,40,96,1.01325,70,9.333333333333334,0.9333333333333333,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,58,20,40,96,1.01325,95,18.67,0.9335000000000001,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,58,30,40,96,1.01325,165,28,0.9333333333333333,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,59,10,40,95,1.01325,80,10,1,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,59,20,40,95,1.01325,110,20,1,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,59,30,40,95,1.01325,165,30,1,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,60,10,40,97,1.01325,90,8.666666666666666,0.8666666666666666,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,60,20,40,97,1.01325,125,17.33,0.8664999999999999,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-21 00:00:00,Summer,Old-Single Grate,60,30,40,97,1.01325,165,26,0.8666666666666667,Tagari ,Flower,Fresh Part wash and used immediately
+2024-05-22 00:00:00,Summer,Old-Single Grate,61,10,38,96,1.01325,70,8.666666666666666,0.8666666666666666,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,61,20,38,96,1.01325,95,17.33,0.8664999999999999,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,61,30,38,96,1.01325,135,26,0.8666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,62,10,38,95,1.01325,80,9.666666666666666,0.9666666666666666,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,62,20,38,95,1.01325,110,19.33,0.9664999999999999,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,62,30,38,95,1.01325,135,29,0.9666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,63,10,38,97,1.01325,90,8.666666666666666,0.8666666666666666,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,63,20,38,97,1.01325,125,17.33,0.8664999999999999,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-22 00:00:00,Summer,Old-Single Grate,63,30,38,97,1.01325,135,26,0.8666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-05-23 00:00:00,Summer,Old-Single Grate,64,10,36,96,1.01325,70,8,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,64,20,36,96,1.01325,95,16,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,64,30,36,96,1.01325,150,24,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,65,10,36,95,1.01325,80,9,0.9,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,65,20,36,95,1.01325,110,18,0.9,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,65,30,36,95,1.01325,150,27,0.9,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,66,10,36,97,1.01325,90,8,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,66,20,36,97,1.01325,125,16,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-23 00:00:00,Summer,Old-Single Grate,66,30,36,97,1.01325,150,24,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-05-24 00:00:00,Summer,Old-Single Grate,67,10,40,96,1.01325,70,8.666666666666666,0.8666666666666666,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,67,20,40,96,1.01325,95,17.33,0.8664999999999999,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,67,30,40,96,1.01325,165,26,0.8666666666666667,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,68,10,40,95,1.01325,80,9.333333333333334,0.9333333333333333,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,68,20,40,95,1.01325,110,18.7,0.9349999999999999,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,68,30,40,95,1.01325,165,28,0.9333333333333333,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,69,10,40,97,1.01325,90,8.666666666666666,0.8666666666666666,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,69,20,40,97,1.01325,125,17.33,0.8664999999999999,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-24 00:00:00,Summer,Old-Single Grate,69,30,40,97,1.01325,165,26,0.8666666666666667,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-05-25 00:00:00,Summer,Old-Single Grate,70,10,38,96,1.01325,70,8.333333333333334,0.8333333333333334,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,70,20,38,96,1.01325,95,16.7,0.835,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,70,30,38,96,1.01325,135,25,0.8333333333333334,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,71,10,38,95,1.01325,80,9.333333333333334,0.9333333333333333,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,71,20,38,95,1.01325,110,18.67,0.9335000000000001,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,71,30,38,95,1.01325,135,28,0.9333333333333333,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,72,10,38,97,1.01325,90,8.333333333333334,0.8333333333333334,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,72,20,38,97,1.01325,125,16.67,0.8335000000000001,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-25 00:00:00,Summer,Old-Single Grate,72,30,38,97,1.01325,135,25,0.8333333333333334,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-05-26 00:00:00,Summer,Old-Single Grate,73,10,32,96,1.01325,70,8,0.8,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,73,20,32,96,1.01325,95,16,0.8,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,73,30,32,96,1.01325,150,24,0.8,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,74,10,32,95,1.01325,80,8.666666666666666,0.8666666666666666,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,74,20,32,95,1.01325,110,17.33,0.8664999999999999,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,74,30,32,95,1.01325,150,26,0.8666666666666667,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,75,10,32,97,1.01325,90,7.666666666666667,0.7666666666666667,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,75,20,32,97,1.01325,125,15.33,0.7665,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-26 00:00:00,Summer,Old-Single Grate,75,30,32,97,1.01325,150,23,0.7666666666666667,Chandanipath ,Flower,Fresh Part used without washing
+2024-05-27 00:00:00,Summer,Old-Single Grate,76,10,40,96,1.01325,70,8.333333333333334,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,76,20,40,96,1.01325,95,16.67,0.8335000000000001,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,76,30,40,96,1.01325,165,25,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,77,10,40,95,1.01325,80,9.333333333333334,0.9333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,77,20,40,95,1.01325,110,18.67,0.9335000000000001,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,77,30,40,95,1.01325,165,28,0.9333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,78,10,40,97,1.01325,90,8.333333333333334,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,78,20,40,97,1.01325,125,16.67,0.8335000000000001,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-27 00:00:00,Summer,Old-Single Grate,78,30,40,97,1.01325,165,25,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-05-28 00:00:00,Summer,Old-Single Grate,79,10,38,96,1.01325,70,8.333333333333334,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,79,20,38,96,1.01325,95,16.67,0.8335000000000001,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,79,30,38,96,1.01325,135,25,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,80,10,38,95,1.01325,80,8.666666666666666,0.8666666666666666,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,80,20,38,95,1.01325,110,17.33,0.8664999999999999,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,80,30,38,95,1.01325,135,26,0.8666666666666667,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,81,10,38,97,1.01325,90,8,0.8,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,81,20,38,97,1.01325,125,16,0.8,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-05-28 00:00:00,Summer,Old-Single Grate,81,30,38,97,1.01325,135,24,0.8,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-01 00:00:00,Winter,Old-Single Grate,1,10,25,96,1.01325,70,9.333333333333334,0.9333333333333333,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,1,20,25,96,1.01325,95,18.67,0.9335000000000001,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,1,30,25,96,1.01325,150,28,0.9333333333333333,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,2,10,25,95,1.01325,110,9.666666666666666,0.9666666666666666,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,2,20,25,95,1.01325,165,19.33,0.9664999999999999,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,2,30,25,95,1.01325,150,29,0.9666666666666667,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,3,10,25,97,1.01325,90,9,0.9,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,3,20,25,97,1.01325,125,18,0.9,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-01 00:00:00,Winter,Old-Single Grate,3,30,25,97,1.01325,150,27,0.9,Eucalyptus ,Leave,Fresh Part used without washing
+2024-11-02 00:00:00,Winter,Old-Single Grate,4,10,22,96,1.01325,70,9.333333333333334,0.9333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,4,20,22,96,1.01325,95,18.67,0.9335000000000001,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,4,30,22,96,1.01325,165,28,0.9333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,5,10,22,95,1.01325,80,10,1,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,5,20,22,95,1.01325,110,20,1,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,5,30,22,95,1.01325,165,30,1,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,6,10,22,97,1.01325,90,9.333333333333334,0.9333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,6,20,22,97,1.01325,125,18.67,0.9335000000000001,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-02 00:00:00,Winter,Old-Single Grate,6,30,22,97,1.01325,165,28,0.9333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2024-11-03 00:00:00,Winter,Old-Single Grate,7,10,24,96,1.01325,70,10,1,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,7,20,24,96,1.01325,95,20,1,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,7,30,24,96,1.01325,135,30,1,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,8,10,24,95,1.01325,80,10.333333333333334,1.0333333333333334,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,8,20,24,95,1.01325,110,20.67,1.0335,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,8,30,24,95,1.01325,135,31,1.0333333333333334,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,9,10,24,97,1.01325,90,10.666666666666666,1.0666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,9,20,24,97,1.01325,125,21.33,1.0665,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-03 00:00:00,Winter,Old-Single Grate,9,30,24,97,1.01325,135,32,1.0666666666666667,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2024-11-04 00:00:00,Winter,Old-Single Grate,10,10,26,96,1.01325,70,8.666666666666666,0.8666666666666666,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,10,20,26,96,1.01325,95,17.33,0.8664999999999999,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,10,30,26,96,1.01325,150,26,0.8666666666666667,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,11,10,26,95,1.01325,80,8.333333333333334,0.8333333333333334,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,11,20,26,95,1.01325,110,16.67,0.8335000000000001,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,11,30,26,95,1.01325,150,25,0.8333333333333334,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,12,10,26,97,1.01325,90,8,0.8,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,12,20,26,97,1.01325,125,16,0.8,Geranium ,Leave,Fresh Part used without washing
+2024-11-04 00:00:00,Winter,Old-Single Grate,12,30,26,97,1.01325,150,24,0.8,Geranium ,Leave,Fresh Part used without washing
+2024-11-05 00:00:00,Winter,Old-Single Grate,13,10,25,96,1.01325,70,8.333333333333334,0.8333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,13,20,25,96,1.01325,95,16.67,0.8335000000000001,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,13,30,25,96,1.01325,150,25,0.8333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,14,10,25,95,1.01325,80,8.666666666666666,0.8666666666666666,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,14,20,25,95,1.01325,110,17.33,0.8664999999999999,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,14,30,25,95,1.01325,165,26,0.8666666666666667,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,15,10,25,97,1.01325,90,8.333333333333334,0.8333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,15,20,25,97,1.01325,125,16.67,0.8335000000000001,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-05 00:00:00,Winter,Old-Single Grate,15,30,25,97,1.01325,165,25,0.8333333333333334,Geranium ,Leave,Fresh Part wash and used immediately
+2024-11-06 00:00:00,Winter,Old-Single Grate,16,10,23,96,1.01325,70,10,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,16,20,23,96,1.01325,95,20,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,16,30,23,96,1.01325,135,30,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,17,10,23,95,1.01325,80,10.666666666666666,1.0666666666666667,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,17,20,23,95,1.01325,110,21.33,1.0665,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,17,30,23,95,1.01325,135,32,1.0666666666666667,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,18,10,23,97,1.01325,90,10,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,18,20,23,97,1.01325,125,20,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-06 00:00:00,Winter,Old-Single Grate,18,30,23,97,1.01325,135,30,1,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2024-11-07 00:00:00,Winter,Old-Single Grate,19,10,21,96,1.01325,70,9,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,19,20,21,96,1.01325,95,18,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,19,30,21,96,1.01325,150,27,0.9,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,20,10,21,95,1.01325,80,9.333333333333334,0.9333333333333333,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,20,20,21,95,1.01325,110,18.67,0.9335000000000001,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,20,30,21,95,1.01325,150,28,0.9333333333333333,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,21,10,21,97,1.01325,90,8,0.8,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,21,20,21,97,1.01325,125,16,0.8,Lavender ,Flower,Fresh Part used without washing
+2024-11-07 00:00:00,Winter,Old-Single Grate,21,30,21,97,1.01325,150,24,0.8,Lavender ,Flower,Fresh Part used without washing
+2024-11-08 00:00:00,Winter,Old-Single Grate,22,10,20,96,1.01325,70,8.666666666666666,0.8666666666666666,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,22,20,20,96,1.01325,95,17.33,0.8664999999999999,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,22,30,20,96,1.01325,165,26,0.8666666666666667,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,23,10,20,95,1.01325,80,9,0.9,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,23,20,20,95,1.01325,110,18,0.9,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,23,30,20,95,1.01325,165,27,0.9,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,24,10,20,97,1.01325,90,8.666666666666666,0.8666666666666666,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,24,20,20,97,1.01325,125,17.33,0.8664999999999999,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-08 00:00:00,Winter,Old-Single Grate,24,30,20,97,1.01325,165,26,0.8666666666666667,Lavender ,Flower,Fresh Part wash and used immediately
+2024-11-09 00:00:00,Winter,Old-Single Grate,25,10,20,96,1.01325,70,8.333333333333334,0.8333333333333334,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,25,20,20,96,1.01325,95,16.67,0.8335000000000001,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,25,30,20,96,1.01325,135,25,0.8333333333333334,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,26,10,20,95,1.01325,80,8.666666666666666,0.8666666666666666,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,26,20,20,95,1.01325,110,17.33,0.8664999999999999,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,26,30,20,95,1.01325,135,26,0.8666666666666667,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,27,10,20,97,1.01325,90,8,0.8,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,27,20,20,97,1.01325,125,16,0.8,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-09 00:00:00,Winter,Old-Single Grate,27,30,20,97,1.01325,135,24,0.8,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2024-11-10 00:00:00,Winter,Old-Single Grate,28,10,22,96,1.01325,70,5.666666666666667,0.5666666666666667,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,28,20,22,96,1.01325,95,11.33,0.5665,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,28,30,22,96,1.01325,150,17,0.5666666666666667,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,29,10,22,95,1.01325,80,6,0.6,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,29,20,22,95,1.01325,110,12,0.6,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,29,30,22,95,1.01325,150,18,0.6,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,30,10,22,97,1.01325,90,5.666666666666667,0.5666666666666667,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,30,20,22,97,1.01325,125,11.33,0.5665,Rose,Flower,Fresh Part used without washing
+2024-11-10 00:00:00,Winter,Old-Single Grate,30,30,22,97,1.01325,150,17,0.5666666666666667,Rose,Flower,Fresh Part used without washing
+2024-11-11 00:00:00,Winter,Old-Single Grate,31,10,23,96,1.01325,70,6,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,31,20,23,96,1.01325,95,12,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,31,30,23,96,1.01325,165,18,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,32,10,23,95,1.01325,80,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,32,20,23,95,1.01325,110,13.33,0.6665,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,32,30,23,95,1.01325,165,20,0.6666666666666666,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,33,10,23,97,1.01325,90,6,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,33,20,23,97,1.01325,125,12,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-11 00:00:00,Winter,Old-Single Grate,33,30,23,97,1.01325,165,18,0.6,Rose,Flower,Fresh Part wash and used immediately
+2024-11-12 00:00:00,Winter,Old-Single Grate,34,10,18,96,1.01325,70,6,0.6,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,34,20,18,96,1.01325,95,12,0.6,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,34,30,18,96,1.01325,135,18,0.6,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,35,10,18,96,1.01325,80,6.666666666666667,0.6666666666666667,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,35,20,18,96,1.01325,110,13.33,0.6665,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,35,30,18,96,1.01325,135,20,0.6666666666666666,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,36,10,18,96,1.01325,90,5.666666666666667,0.5666666666666667,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,36,20,18,96,1.01325,125,11.33,0.5665,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-12 00:00:00,Winter,Old-Single Grate,36,30,18,96,1.01325,135,17,0.5666666666666667,Rose,Flower,Fresh Part wash and used after 24 hours
+2024-11-13 00:00:00,Winter,Old-Single Grate,37,10,17,96,1.01325,70,6.666666666666667,0.6666666666666667,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,37,20,17,96,1.01325,95,20,1,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,37,30,17,96,1.01325,150,20,0.6666666666666666,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,38,10,17,95,1.01325,80,7.333333333333333,0.7333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,38,20,17,95,1.01325,110,14.67,0.7335,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,38,30,17,95,1.01325,150,22,0.7333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,39,10,17,97,1.01325,90,6.333333333333333,0.6333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,39,20,17,97,1.01325,125,12.67,0.6335,Chafa,Flower,Fresh Part used without washing
+2024-11-13 00:00:00,Winter,Old-Single Grate,39,30,17,97,1.01325,150,19,0.6333333333333333,Chafa,Flower,Fresh Part used without washing
+2024-11-14 00:00:00,Winter,Old-Single Grate,40,10,18,96,1.01325,70,6.666666666666667,0.6666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,40,20,18,96,1.01325,95,13.33,0.6665,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,40,30,18,96,1.01325,165,20,0.6666666666666666,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,41,10,18,95,1.01325,80,7.666666666666667,0.7666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,41,20,18,95,1.01325,110,15.33,0.7665,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,41,30,18,95,1.01325,165,23,0.7666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,42,10,18,97,1.01325,90,7,0.7,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,42,20,18,97,1.01325,125,14,0.7,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-14 00:00:00,Winter,Old-Single Grate,42,30,18,97,1.01325,165,21,0.7,Chafa,Flower,Fresh Part wash and used immediately
+2024-11-15 00:00:00,Winter,Old-Single Grate,43,10,19,96,1.01325,70,6.666666666666667,0.6666666666666667,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,43,20,19,96,1.01325,95,13.33,0.6665,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,43,30,19,96,1.01325,135,20,0.6666666666666666,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,44,10,19,96,1.01325,80,8,0.8,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,44,20,19,96,1.01325,110,16,0.8,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,44,30,19,96,1.01325,135,24,0.8,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,45,10,19,96,1.01325,90,7,0.7,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,45,20,19,96,1.01325,125,14,0.7,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-15 00:00:00,Winter,Old-Single Grate,45,30,19,96,1.01325,135,21,0.7,Chafa,Flower,Fresh Part wash and used after 24 hours
+2024-11-17 00:00:00,Winter,Old-Single Grate,46,10,16,96,1.01325,70,7.333333333333333,0.7333333333333333,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,46,20,16,96,1.01325,95,14.67,0.7335,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,46,30,16,96,1.01325,150,22,0.7333333333333333,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,47,10,16,95,1.01325,80,7.666666666666667,0.7666666666666667,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,47,20,16,95,1.01325,110,15.33,0.7665,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,47,30,16,95,1.01325,150,23,0.7666666666666667,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,48,10,16,97,1.01325,90,7,0.7,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,48,20,16,97,1.01325,125,14,0.7,Mogra,Flower,Fresh Part used without washing
+2024-11-17 00:00:00,Winter,Old-Single Grate,48,30,16,97,1.01325,150,21,0.7,Mogra,Flower,Fresh Part used without washing
+2024-11-18 00:00:00,Winter,Old-Single Grate,49,10,18,96,1.01325,70,7.666666666666667,0.7666666666666667,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,49,20,18,96,1.01325,95,15.33,0.7665,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,49,30,18,96,1.01325,165,23,0.7666666666666667,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,50,10,18,95,1.01325,80,8.333333333333334,0.8333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,50,20,18,95,1.01325,110,16.67,0.8335000000000001,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,50,30,18,95,1.01325,165,25,0.8333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,51,10,18,97,1.01325,90,7,0.7,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,51,20,18,97,1.01325,125,14,0.7,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-18 00:00:00,Winter,Old-Single Grate,51,30,18,97,1.01325,165,21,0.7,Mogra,Flower,Fresh Part wash and used immediately
+2024-11-19 00:00:00,Winter,Old-Single Grate,52,10,16,96,1.01325,70,7,0.7,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,52,20,16,96,1.01325,95,14,0.7,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,52,30,16,96,1.01325,135,21,0.7,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,53,10,16,96,1.01325,80,8,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,53,20,16,96,1.01325,110,16,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,53,30,16,96,1.01325,135,24,0.8,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,54,10,16,96,1.01325,90,6.666666666666667,0.6666666666666667,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,54,20,16,96,1.01325,125,13.33,0.6665,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-19 00:00:00,Winter,Old-Single Grate,54,30,16,96,1.01325,135,20,0.6666666666666666,Mogra,Flower,Fresh Part wash and used after 24 hours
+2024-11-20 00:00:00,Winter,Old-Single Grate,55,10,19,96,1.01325,70,7.333333333333333,0.7333333333333333,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,55,20,19,96,1.01325,95,14.67,0.7335,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,55,30,19,96,1.01325,150,22,0.7333333333333333,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,56,10,19,95,1.01325,80,8.333333333333334,0.8333333333333334,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,56,20,19,95,1.01325,110,16.67,0.8335000000000001,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,56,30,19,95,1.01325,150,25,0.8333333333333334,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,57,10,19,97,1.01325,90,7.333333333333333,0.7333333333333333,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,57,20,19,97,1.01325,125,14.67,0.7335,Tagari ,Flower,Fresh Part used without washing
+2024-11-20 00:00:00,Winter,Old-Single Grate,57,30,19,97,1.01325,150,22,0.7333333333333333,Tagari ,Flower,Fresh Part used without washing
+2024-11-21 00:00:00,Winter,Old-Single Grate,58,10,20,96,1.01325,70,8,0.8,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,58,20,20,96,1.01325,95,16,0.8,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,58,30,20,96,1.01325,165,24,0.8,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,59,10,20,95,1.01325,80,8.666666666666666,0.8666666666666666,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,59,20,20,95,1.01325,110,17.33,0.8664999999999999,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,59,30,20,95,1.01325,165,26,0.8666666666666667,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,60,10,20,97,1.01325,90,7.333333333333333,0.7333333333333333,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,60,20,20,97,1.01325,125,14.67,0.7335,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-21 00:00:00,Winter,Old-Single Grate,60,30,20,97,1.01325,165,22,0.7333333333333333,Tagari ,Flower,Fresh Part wash and used immediately
+2024-11-22 00:00:00,Winter,Old-Single Grate,61,10,17,96,1.01325,70,7.333333333333333,0.7333333333333333,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,61,20,17,96,1.01325,95,14.67,0.7335,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,61,30,17,96,1.01325,135,22,0.7333333333333333,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,62,10,17,96,1.01325,80,8.333333333333334,0.7666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,62,20,17,96,1.01325,110,16.67,0.8,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,62,30,17,96,1.01325,135,25,0.7,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,63,10,17,96,1.01325,90,7.666666666666667,0.7666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,63,20,17,96,1.01325,125,15.33,0.7665,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-22 00:00:00,Winter,Old-Single Grate,63,30,17,96,1.01325,135,23,0.7666666666666667,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2024-11-23 00:00:00,Winter,Old-Single Grate,64,10,18,96,1.01325,70,6.666666666666667,0.6666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,64,20,18,96,1.01325,95,13.33,0.6665,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,64,30,18,96,1.01325,150,20,0.6666666666666666,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,65,10,18,95,1.01325,80,8,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,65,20,18,95,1.01325,110,16,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,65,30,18,95,1.01325,150,24,0.8,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,66,10,18,97,1.01325,90,6.666666666666667,0.6666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,66,20,18,97,1.01325,125,13.33,0.6665,Parijatak ,Flower,Fresh Part used without washing
+2024-11-23 00:00:00,Winter,Old-Single Grate,66,30,18,97,1.01325,150,20,0.6666666666666666,Parijatak ,Flower,Fresh Part used without washing
+2024-11-24 00:00:00,Winter,Old-Single Grate,67,10,19,96,1.01325,70,7,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,67,20,19,96,1.01325,95,14,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,67,30,19,96,1.01325,165,21,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,68,10,19,95,1.01325,80,7.666666666666667,0.7666666666666667,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,68,20,19,95,1.01325,110,15.33,0.7665,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,68,30,19,95,1.01325,165,23,0.7666666666666667,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,69,10,19,97,1.01325,90,7,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,69,20,19,97,1.01325,125,14,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-24 00:00:00,Winter,Old-Single Grate,69,30,19,97,1.01325,165,21,0.7,Parijatak ,Flower,Fresh Part wash and used immediately
+2024-11-25 00:00:00,Winter,Old-Single Grate,70,10,15,96,1.01325,70,7.666666666666667,0.7666666666666667,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,70,20,15,96,1.01325,95,15.33,0.7665,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,70,30,15,96,1.01325,135,23,0.7666666666666667,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,71,10,15,96,1.01325,80,8,0.8,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,71,20,15,96,1.01325,110,16,0.8,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,71,30,15,96,1.01325,135,24,0.8,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,72,10,15,96,1.01325,90,7,0.7,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,72,20,15,96,1.01325,125,14,0.7,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-25 00:00:00,Winter,Old-Single Grate,72,30,15,96,1.01325,135,21,0.7,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2024-11-26 00:00:00,Winter,Old-Single Grate,73,10,18,96,1.01325,70,7,0.7,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,73,20,18,96,1.01325,95,14,0.7,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,73,30,18,96,1.01325,150,21,0.7,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,74,10,18,95,1.01325,80,7.333333333333333,0.7333333333333333,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,74,20,18,95,1.01325,110,14.67,0.7335,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,74,30,18,95,1.01325,150,22,0.7333333333333333,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,75,10,18,97,1.01325,90,6.666666666666667,0.6666666666666667,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,75,20,18,97,1.01325,125,13.33,0.6665,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-26 00:00:00,Winter,Old-Single Grate,75,30,18,97,1.01325,150,20,0.6666666666666666,Chandanipath ,Flower,Fresh Part used without washing
+2024-11-27 00:00:00,Winter,Old-Single Grate,76,10,16,96,1.01325,70,7.333333333333333,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,76,20,16,96,1.01325,95,14.67,0.7335,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,76,30,16,96,1.01325,165,22,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,77,10,16,95,1.01325,80,8.333333333333334,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,77,20,16,95,1.01325,110,16.667,0.83335,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,77,30,16,95,1.01325,165,25,0.8333333333333334,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,78,10,16,97,1.01325,90,7.333333333333333,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,78,20,16,97,1.01325,125,14.67,0.7335,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-27 00:00:00,Winter,Old-Single Grate,78,30,16,97,1.01325,165,22,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used immediately
+2024-11-28 00:00:00,Winter,Old-Single Grate,79,10,19,96,1.01325,70,7,0.7,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,79,20,19,96,1.01325,95,14,0.7,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,79,30,19,96,1.01325,135,21,0.7,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,80,10,19,96,1.01325,80,7.333333333333333,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,80,20,19,96,1.01325,110,14.67,0.7335,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,80,30,19,96,1.01325,135,22,0.7333333333333333,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,81,10,19,96,1.01325,90,6.666666666666667,0.6666666666666667,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,81,20,19,96,1.01325,125,13.33,0.6665,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2024-11-28 00:00:00,Winter,Old-Single Grate,81,30,19,96,1.01325,135,20,0.6666666666666666,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-01 00:00:00,Summer,New-Tripple Grate,1,10,42,96,1.01325,70,13.333333333333334,1.3333333333333335,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,1,20,42,96,1.01325,95,26.67,1.3335000000000001,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,1,30,42,96,1.01325,150,40,1.3333333333333333,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,2,10,42,95,1.01325,80,14,1.4,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,2,20,42,95,1.01325,110,28,1.4,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,2,30,42,95,1.01325,150,42,1.4,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,3,10,42,97,1.01325,90,13.333333333333334,1.3333333333333335,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,3,20,42,97,1.01325,125,26.67,1.3335000000000001,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-01 00:00:00,Summer,New-Tripple Grate,3,30,42,97,1.01325,150,40,1.3333333333333333,Eucalyptus ,Leave,Fresh Part used without washing
+2025-05-02 00:00:00,Summer,New-Tripple Grate,4,10,41,96,1.01325,70,14,1.4,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,4,20,41,96,1.01325,95,28,1.4,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,4,30,41,96,1.01325,165,42,1.4,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,5,10,41,95,1.01325,80,14.333333333333334,1.4333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,5,20,41,95,1.01325,110,28.67,1.4335,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,5,30,41,95,1.01325,165,43,1.4333333333333333,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,6,10,41,97,1.01325,90,13.666666666666666,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,6,20,41,97,1.01325,125,27.33,1.3664999999999998,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-02 00:00:00,Summer,New-Tripple Grate,6,30,41,97,1.01325,165,41,1.3666666666666667,Eucalyptus ,Leave,Fresh Part wash and used immediately
+2025-05-03 00:00:00,Summer,New-Tripple Grate,7,10,40,96,1.01325,70,15,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,7,20,40,96,1.01325,95,30,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,7,30,40,96,1.01325,135,45,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,8,10,40,96,1.01325,80,15.333333333333334,1.5333333333333334,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,8,20,40,96,1.01325,110,30.67,1.5335,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,8,30,40,96,1.01325,135,46,1.5333333333333334,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,9,10,40,96,1.01325,90,15,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,9,20,40,96,1.01325,125,30,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-03 00:00:00,Summer,New-Tripple Grate,9,30,40,96,1.01325,135,45,1.5,Eucalyptus ,Leave,Fresh Part wash and used after 24 hours
+2025-05-04 00:00:00,Summer,New-Tripple Grate,10,10,39,96,1.01325,70,12.666666666666666,1.2666666666666666,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,10,20,39,96,1.01325,95,25.33,1.2665,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,10,30,39,96,1.01325,150,38,1.2666666666666666,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,11,10,39,95,1.01325,80,12,1.2,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,11,20,39,95,1.01325,110,24,1.2,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,11,30,39,95,1.01325,150,36,1.2,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,12,10,39,97,1.01325,90,11.666666666666666,1.1666666666666665,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,12,20,39,97,1.01325,125,23.33,1.1664999999999999,Geranium ,Leave,Fresh Part used without washing
+2025-05-04 00:00:00,Summer,New-Tripple Grate,12,30,39,97,1.01325,150,35,1.1666666666666667,Geranium ,Leave,Fresh Part used without washing
+2025-05-05 00:00:00,Summer,New-Tripple Grate,13,10,38,96,1.01325,70,14,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,13,20,38,96,1.01325,95,28,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,13,30,38,96,1.01325,165,42,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,14,10,38,95,1.01325,80,14,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,14,20,38,95,1.01325,110,28,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,14,30,38,95,1.01325,165,42,1.4,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,15,10,38,97,1.01325,90,14.333333333333334,1.4333333333333333,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,15,20,38,97,1.01325,125,28.67,1.4335,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-05 00:00:00,Summer,New-Tripple Grate,15,30,38,97,1.01325,165,43,1.4333333333333333,Geranium ,Leave,Fresh Part wash and used immediately
+2025-05-06 00:00:00,Summer,New-Tripple Grate,16,10,40,96,1.01325,70,13.333333333333334,1.3333333333333335,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,16,20,40,96,1.01325,95,26.67,1.3335000000000001,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,16,30,40,96,1.01325,135,40,1.3333333333333333,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,17,10,40,96,1.01325,80,13.666666666666666,1.3666666666666667,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,17,20,40,96,1.01325,110,27.33,1.3664999999999998,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,17,30,40,96,1.01325,135,41,1.3666666666666667,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,18,10,40,96,1.01325,90,14,1.4,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,18,20,40,96,1.01325,125,28,1.4,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-06 00:00:00,Summer,New-Tripple Grate,18,30,40,96,1.01325,135,42,1.4,Geranium ,Leave,Fresh Part wash and used after 24 hours
+2025-05-07 00:00:00,Summer,New-Tripple Grate,19,10,35,96,1.01325,70,11.666666666666666,1.1666666666666665,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,19,20,35,96,1.01325,95,23.33,1.1664999999999999,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,19,30,35,96,1.01325,150,35,1.1666666666666667,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,20,10,35,95,1.01325,80,11,1.1,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,20,20,35,95,1.01325,110,22,1.1,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,20,30,35,95,1.01325,150,33,1.1,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,21,10,35,97,1.01325,90,10.666666666666666,1.0666666666666667,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,21,20,35,97,1.01325,125,21.33,1.0665,Lavender ,Flower,Fresh Part used without washing
+2025-05-07 00:00:00,Summer,New-Tripple Grate,21,30,35,97,1.01325,150,32,1.0666666666666667,Lavender ,Flower,Fresh Part used without washing
+2025-05-08 00:00:00,Summer,New-Tripple Grate,22,10,38,96,1.01325,70,11.333333333333334,1.1333333333333333,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,22,20,38,96,1.01325,95,22.67,1.1335000000000002,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,22,30,38,96,1.01325,165,34,1.1333333333333333,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,23,10,38,95,1.01325,80,12,1.2,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,23,20,38,95,1.01325,110,24,1.2,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,23,30,38,95,1.01325,165,36,1.2,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,24,10,38,97,1.01325,90,11.666666666666666,1.1666666666666665,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,24,20,38,97,1.01325,125,23.33,1.1664999999999999,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-08 00:00:00,Summer,New-Tripple Grate,24,30,38,97,1.01325,165,35,1.1666666666666667,Lavender ,Flower,Fresh Part wash and used immediately
+2025-05-09 00:00:00,Summer,New-Tripple Grate,25,10,40,96,1.01325,70,11,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,25,20,40,96,1.01325,95,22,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,25,30,40,96,1.01325,135,33,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,26,10,40,96,1.01325,80,11,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,26,20,40,96,1.01325,110,22,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,26,30,40,96,1.01325,135,33,1.1,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,27,10,40,96,1.01325,90,11.333333333333334,1.1333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,27,20,40,96,1.01325,125,22.67,1.1335000000000002,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-09 00:00:00,Summer,New-Tripple Grate,27,30,40,96,1.01325,135,34,1.1333333333333333,Lavender ,Flower,Fresh Part wash and used after 24 hours
+2025-05-10 00:00:00,Summer,New-Tripple Grate,28,10,37,96,1.01325,70,8.333333333333334,0.8333333333333334,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,28,20,37,96,1.01325,95,16.67,0.8335000000000001,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,28,30,37,96,1.01325,150,25,0.8333333333333334,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,29,10,37,95,1.01325,80,8.666666666666666,0.8666666666666666,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,29,20,37,95,1.01325,110,17.33,0.8664999999999999,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,29,30,37,95,1.01325,150,26,0.8666666666666667,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,30,10,37,97,1.01325,90,8.333333333333334,0.8333333333333334,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,30,20,37,97,1.01325,125,16.67,0.8335000000000001,Rose,Flower,Fresh Part used without washing
+2025-05-10 00:00:00,Summer,New-Tripple Grate,30,30,37,97,1.01325,150,25,0.8333333333333334,Rose,Flower,Fresh Part used without washing
+2025-05-11 00:00:00,Summer,New-Tripple Grate,31,10,34,96,1.01325,70,8.333333333333334,0.8333333333333334,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,31,20,34,96,1.01325,95,16.67,0.8335000000000001,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,31,30,34,96,1.01325,165,25,0.8333333333333334,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,32,10,34,95,1.01325,80,9.333333333333334,0.9333333333333333,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,32,20,34,95,1.01325,110,18.67,0.9335000000000001,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,32,30,34,95,1.01325,165,28,0.9333333333333333,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,33,10,34,97,1.01325,90,8.333333333333334,0.8333333333333334,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,33,20,34,97,1.01325,125,16.67,0.8335000000000001,Rose,Flower,Fresh Part wash and used immediately
+2025-05-11 00:00:00,Summer,New-Tripple Grate,33,30,34,97,1.01325,165,25,0.8333333333333334,Rose,Flower,Fresh Part wash and used immediately
+2025-05-12 00:00:00,Summer,New-Tripple Grate,34,10,37,96,1.01325,70,8.333333333333334,0.8333333333333334,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,34,20,37,96,1.01325,95,16.67,0.8335000000000001,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,34,30,37,96,1.01325,135,25,0.8333333333333334,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,35,10,37,96,1.01325,80,9.333333333333334,0.9333333333333333,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,35,20,37,96,1.01325,110,18.67,0.9335000000000001,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,35,30,37,96,1.01325,135,28,0.9333333333333333,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,36,10,37,96,1.01325,90,8,0.8,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,36,20,37,96,1.01325,125,16,0.8,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-12 00:00:00,Summer,New-Tripple Grate,36,30,37,96,1.01325,135,24,0.8,Rose,Flower,Fresh Part wash and used after 24 hours
+2025-05-13 00:00:00,Summer,New-Tripple Grate,37,10,34,96,1.01325,70,9.333333333333334,0.9333333333333333,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,37,20,34,96,1.01325,95,18.67,0.9335000000000001,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,37,30,34,96,1.01325,150,28,0.9333333333333333,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,38,10,34,95,1.01325,80,10,1,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,38,20,34,95,1.01325,110,20,1,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,38,30,34,95,1.01325,150,30,1,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,39,10,34,97,1.01325,90,9.333333333333334,0.9333333333333333,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,39,20,34,97,1.01325,125,18.67,0.9335000000000001,Chafa,Flower,Fresh Part used without washing
+2025-05-13 00:00:00,Summer,New-Tripple Grate,39,30,34,97,1.01325,150,28,0.9333333333333333,Chafa,Flower,Fresh Part used without washing
+2025-05-14 00:00:00,Summer,New-Tripple Grate,40,10,41,96,1.01325,70,9.666666666666666,0.9666666666666666,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,40,20,41,96,1.01325,95,19.33,0.9664999999999999,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,40,30,41,96,1.01325,165,29,0.9666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,41,10,41,95,1.01325,80,10.666666666666666,1.0666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,41,20,41,95,1.01325,110,21.33,1.0665,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,41,30,41,95,1.01325,165,32,1.0666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,42,10,41,97,1.01325,90,9.666666666666666,0.9666666666666666,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,42,20,41,97,1.01325,125,19.33,0.9664999999999999,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-14 00:00:00,Summer,New-Tripple Grate,42,30,41,97,1.01325,165,29,0.9666666666666667,Chafa,Flower,Fresh Part wash and used immediately
+2025-05-15 00:00:00,Summer,New-Tripple Grate,43,10,38,96,1.01325,70,9.333333333333334,0.9333333333333333,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,43,20,38,96,1.01325,95,18.67,0.9335000000000001,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,43,30,38,96,1.01325,135,28,0.9333333333333333,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,44,10,38,96,1.01325,80,10.333333333333334,1.0333333333333334,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,44,20,38,96,1.01325,110,20.67,1.0335,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,44,30,38,96,1.01325,135,31,1.0333333333333334,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,45,10,38,96,1.01325,90,9.333333333333334,0.9333333333333333,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,45,20,38,96,1.01325,125,18.67,0.9335000000000001,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-15 00:00:00,Summer,New-Tripple Grate,45,30,38,96,1.01325,135,28,0.9333333333333333,Chafa,Flower,Fresh Part wash and used after 24 hours
+2025-05-17 00:00:00,Summer,New-Tripple Grate,46,10,36,96,1.01325,70,9.666666666666666,0.9666666666666666,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,46,20,36,96,1.01325,95,19.33,0.9664999999999999,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,46,30,36,96,1.01325,150,29,0.9666666666666667,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,47,10,36,95,1.01325,80,10,1,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,47,20,36,95,1.01325,110,20,1,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,47,30,36,95,1.01325,150,30,1,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,48,10,36,97,1.01325,90,9.333333333333334,0.9333333333333333,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,48,20,36,97,1.01325,125,18.67,0.9335000000000001,Mogra,Flower,Fresh Part used without washing
+2025-05-17 00:00:00,Summer,New-Tripple Grate,48,30,36,97,1.01325,150,28,0.9333333333333333,Mogra,Flower,Fresh Part used without washing
+2025-05-18 00:00:00,Summer,New-Tripple Grate,49,10,40,96,1.01325,70,10.333333333333334,1.0333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,49,20,40,96,1.01325,95,20.67,1.0335,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,49,30,40,96,1.01325,165,31,1.0333333333333334,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,50,10,40,95,1.01325,80,10.666666666666666,1.0666666666666667,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,50,20,40,95,1.01325,110,21.33,1.0665,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,50,30,40,95,1.01325,165,32,1.0666666666666667,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,51,10,40,97,1.01325,90,10,1,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,51,20,40,97,1.01325,125,20,1,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-18 00:00:00,Summer,New-Tripple Grate,51,30,40,97,1.01325,165,30,1,Mogra,Flower,Fresh Part wash and used immediately
+2025-05-19 00:00:00,Summer,New-Tripple Grate,52,10,38,96,1.01325,70,9.666666666666666,0.9666666666666666,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,52,20,38,96,1.01325,95,19.33,0.9664999999999999,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,52,30,38,96,1.01325,135,29,0.9666666666666667,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,53,10,38,96,1.01325,80,10.666666666666666,1.0666666666666667,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,53,20,38,96,1.01325,110,21.33,1.0665,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,53,30,38,96,1.01325,135,32,1.0666666666666667,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,54,10,38,96,1.01325,90,9.666666666666666,0.9666666666666666,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,54,20,38,96,1.01325,125,19.33,0.9664999999999999,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-19 00:00:00,Summer,New-Tripple Grate,54,30,38,96,1.01325,135,29,0.9666666666666667,Mogra,Flower,Fresh Part wash and used after 24 hours
+2025-05-20 00:00:00,Summer,New-Tripple Grate,55,10,36,96,1.01325,70,10.333333333333334,1.0333333333333334,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,55,20,36,96,1.01325,95,20.67,1.0335,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,55,30,36,96,1.01325,150,31,1.0333333333333334,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,56,10,36,95,1.01325,80,11.333333333333334,1.1333333333333333,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,56,20,36,95,1.01325,110,22.67,1.1335000000000002,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,56,30,36,95,1.01325,150,34,1.1333333333333333,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,57,10,36,97,1.01325,90,10,1,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,57,20,36,97,1.01325,125,20,1,Tagari ,Flower,Fresh Part used without washing
+2025-05-20 00:00:00,Summer,New-Tripple Grate,57,30,36,97,1.01325,150,30,1,Tagari ,Flower,Fresh Part used without washing
+2025-05-21 00:00:00,Summer,New-Tripple Grate,58,10,41,96,1.01325,70,11,1.1,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,58,20,41,96,1.01325,95,22,1.1,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,58,30,41,96,1.01325,165,33,1.1,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,59,10,41,95,1.01325,80,11.666666666666666,1.1666666666666665,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,59,20,41,95,1.01325,110,23.33,1.1664999999999999,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,59,30,41,95,1.01325,165,35,1.1666666666666667,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,60,10,41,97,1.01325,90,10.333333333333334,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,60,20,41,97,1.01325,125,20.67,1.0335,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-21 00:00:00,Summer,New-Tripple Grate,60,30,41,97,1.01325,165,31,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used immediately
+2025-05-22 00:00:00,Summer,New-Tripple Grate,61,10,38,96,1.01325,70,10.333333333333334,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,61,20,38,96,1.01325,95,20.67,1.0335,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,61,30,38,96,1.01325,135,31,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,62,10,38,96,1.01325,80,11.333333333333334,1.1333333333333333,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,62,20,38,96,1.01325,110,22.67,1.1335000000000002,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,62,30,38,96,1.01325,135,34,1.1333333333333333,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,63,10,38,96,1.01325,90,10.333333333333334,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,63,20,38,96,1.01325,125,20.67,1.0335,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-22 00:00:00,Summer,New-Tripple Grate,63,30,38,96,1.01325,135,31,1.0333333333333334,Tagari ,Flower,Fresh Part wash and used after 24 hours
+2025-05-23 00:00:00,Summer,New-Tripple Grate,64,10,35,96,1.01325,70,9.666666666666666,0.9666666666666666,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,64,20,35,96,1.01325,95,19.33,0.9664999999999999,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,64,30,35,96,1.01325,150,29,0.9666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,65,10,35,95,1.01325,80,10.666666666666666,1.0666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,65,20,35,95,1.01325,110,21.33,1.0665,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,65,30,35,95,1.01325,150,32,1.0666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,66,10,35,97,1.01325,90,9.666666666666666,0.9666666666666666,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,66,20,35,97,1.01325,125,19.33,0.9664999999999999,Parijatak ,Flower,Fresh Part used without washing
+2025-05-23 00:00:00,Summer,New-Tripple Grate,66,30,35,97,1.01325,150,29,0.9666666666666667,Parijatak ,Flower,Fresh Part used without washing
+2025-05-24 00:00:00,Summer,New-Tripple Grate,67,10,39,96,1.01325,70,10.333333333333334,1.0333333333333334,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,67,20,39,96,1.01325,95,20.67,1.0335,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,67,30,39,96,1.01325,165,31,1.0333333333333334,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,68,10,39,95,1.01325,80,11,1.1,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,68,20,39,95,1.01325,110,22,1.1,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,68,30,39,95,1.01325,165,33,1.1,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,69,10,39,97,1.01325,90,10.333333333333334,1.0333333333333334,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,69,20,39,97,1.01325,125,20.67,1.0335,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-24 00:00:00,Summer,New-Tripple Grate,69,30,39,97,1.01325,165,31,1.0333333333333334,Parijatak ,Flower,Fresh Part wash and used immediately
+2025-05-25 00:00:00,Summer,New-Tripple Grate,70,10,37,96,1.01325,70,10,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,70,20,37,96,1.01325,95,20,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,70,30,37,96,1.01325,135,30,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,71,10,37,96,1.01325,80,11,1.1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,71,20,37,96,1.01325,110,22,1.1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,71,30,37,96,1.01325,135,33,1.1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,72,10,37,96,1.01325,90,10,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,72,20,37,96,1.01325,125,20,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-25 00:00:00,Summer,New-Tripple Grate,72,30,37,96,1.01325,135,30,1,Parijatak ,Flower,Fresh Part wash and used after 24 hours
+2025-05-26 00:00:00,Summer,New-Tripple Grate,73,10,30,96,1.01325,70,9.666666666666666,0.9666666666666666,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,73,20,30,96,1.01325,95,19.33,0.9664999999999999,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,73,30,30,96,1.01325,150,29,0.9666666666666667,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,74,10,30,95,1.01325,80,10.333333333333334,1.0333333333333334,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,74,20,30,95,1.01325,110,20.67,1.0335,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,74,30,30,95,1.01325,150,31,1.0333333333333334,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,75,10,30,97,1.01325,90,9.333333333333334,0.9333333333333333,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,75,20,30,97,1.01325,125,18.67,0.9335000000000001,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-26 00:00:00,Summer,New-Tripple Grate,75,30,30,97,1.01325,150,28,0.9333333333333333,Chandanipath ,Flower,Fresh Part used without washing
+2025-05-27 00:00:00,Summer,New-Tripple Grate,76,10,37,96,1.01325,70,10,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,76,20,37,96,1.01325,95,20,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,76,30,37,96,1.01325,165,30,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,77,10,37,95,1.01325,80,11,1.1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,77,20,37,95,1.01325,110,22,1.1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,77,30,37,95,1.01325,165,33,1.1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,78,10,37,97,1.01325,90,10,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,78,20,37,97,1.01325,125,20,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-27 00:00:00,Summer,New-Tripple Grate,78,30,37,97,1.01325,165,30,1,Chandanipath ,Flower,Fresh Part wash and used immediately
+2025-05-28 00:00:00,Summer,New-Tripple Grate,79,10,40,96,1.01325,70,10,1,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,79,20,40,96,1.01325,95,20,1,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,79,30,40,96,1.01325,135,30,1,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,80,10,40,96,1.01325,80,10.333333333333334,1.0333333333333334,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,80,20,40,96,1.01325,110,20.67,1.0335,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,80,30,40,96,1.01325,135,31,1.0333333333333334,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,81,10,40,96,1.01325,90,9.666666666666666,0.9666666666666666,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,81,20,40,96,1.01325,125,19.33,0.9664999999999999,Chandanipath ,Flower,Fresh Part wash and used after 24 hours
+2025-05-28 00:00:00,Summer,New-Tripple Grate,81,30,40,96,1.01325,135,29,0.9666666666666667,Chandanipath ,Flower,Fresh Part wash and used after 24 hours

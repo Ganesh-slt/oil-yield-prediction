@@ -1,0 +1,132 @@
+
+
+# 📘 HOW TO RUN THE OIL YIELD PREDICTION APP
+
+
+## ✅ WHAT THIS APP DOES
+
+This app predicts:
+
+* **Oil Yield (ml/kg)**
+* **Total Volume (ml)**
+
+based on:
+Season, Design, Plant Type, Plant Part, Condition, Batch Size, and Room Temperature.
+
+---
+
+## 🧰 REQUIREMENTS (ONE-TIME SETUP)
+
+### 1️⃣ Install Python (if you  have installed this before than skip this )
+
+1. Open this link:
+   👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Click **Download Python 3.10 or 3.11**
+3. During installation:
+   ✅ **IMPORTANT:** Tick the box **“Add Python to PATH”**
+4. Click **Install**
+5. Restart your computer
+
+---
+
+## 📦 STEP 1: Extract the ZIP File
+
+1. Right-click the ZIP file
+2. Click **Extract All**
+3. Open the extracted folder
+   (Example: `oil_yield_project`)
+
+---
+
+## 💻 STEP 2: Open Command Prompt
+
+1. Press **Windows + R**
+2. Type:
+
+   ```
+   cmd
+   ```
+3. Press **Enter**
+
+## 📂 STEP 3: Go to the Project Folder
+
+In Command Prompt, type (example):
+
+cd Desktop\oil_yield_project
+
+
+⚠️ If the folder is in another place, open that folder,
+click the address bar, copy the path, and paste it after `cd`
+
+---
+
+## 📥 STEP 4: Install Required Software (ONE TIME)
+
+Type this and press **Enter**:
+
+pip install -r requirements.txt
+
+
+⏳ Wait until installation finishes (1–2 minutes)
+
+
+
+## 🧠 STEP 5: Train the Model (ONLY ONCE)
+
+Type:
+
+
+python train.py
+
+Wait until you see:
+
+Model saved successfully
+
+## 🌐 STEP 6: Run the App
+
+Type:
+
+
+streamlit run app.py
+
+
+
+
+## 🎉 STEP 7: Use the App
+
+1. A browser will open automatically
+   (If not, open browser and go to: [http://localhost:8501](http://localhost:8501))
+2. Select values from dropdowns
+3. Enter batch size and temperature
+4. Click **Predict**
+5. Results will be shown instantly
+
+---
+
+## ❌ IMPORTANT RULES
+
+* ❌ Do NOT double-click `app.py`
+* ❌ Do NOT close the Command Prompt while using the app
+* ✅ Keep Command Prompt open
+
+---
+
+## 🔁 NEXT TIME (Very Easy)
+
+Next time, only do:
+
+```
+cd oil_yield_project
+streamlit run app.py
+```
+
+(No need to install or train again)
+
+---
+
+## 🆘 IF SOMETHING GOES WRONG
+
+* Restart computer
+* Open Command Prompt again
+* Repeat Step 6
+
