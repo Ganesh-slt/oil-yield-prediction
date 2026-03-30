@@ -22,21 +22,6 @@ def get_base64(img_path):
 logo1 = get_base64("logo1.png")
 logo2 = get_base64("logo2.png")
 logo3 = get_base64("logo3.png")
-
-logo1 = get_base64("logo1.png")
-logo2 = get_base64("logo2.png")
-logo3 = get_base64("logo3.png")
-
-import base64
-
-def get_base64(img_path):
-    with open(img_path, "rb") as f:
-        return base64.b64encode(f.read()).decode()
-
-logo1 = get_base64("logo1.png")
-logo2 = get_base64("logo2.png")
-logo3 = get_base64("logo3.png")
-
 st.markdown(f"""
 <style>
 
@@ -122,7 +107,6 @@ st.markdown("---")
 
 # ---------------- LOAD MODEL ----------------
 model = joblib.load("model/model.pkl")
-
 # ---------------- LOAD DATA FOR DROPDOWN ----------------
 df = pd.read_csv("data/data.csv")
 
