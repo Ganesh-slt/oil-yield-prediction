@@ -106,12 +106,21 @@ with col3:
 st.markdown("---")
 
 # ---------------- LOAD MODEL ----------------
-BASE_DIR = os.path.dirname(__file__)
+# ---------------- LOAD MODEL ----------------
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-model_path = os.path.join(BASE_DIR, "oil_yield_project____", "model", "model.pkl")
-data_path = os.path.join(BASE_DIR, "oil_yield_project____", "data", "data.csv")
+model_path = os.path.join(BASE_DIR, "model", "model.pkl")
+
+# Debug (optional - logs me dikhega)
+
+data_path = os.path.join(BASE_DIR, "data", "data.csv")
+st.write("Model path:", model_path)
+st.write("Data path:", data_path)
 
 model = joblib.load(model_path)
+
+# ---------------- LOAD DATA ----------------
+df = pd.read_csv(data_path))
 
 # ---------------- LOAD DATA FOR DROPDOWN ----------------S
 df = pd.read_csv(data_path)
