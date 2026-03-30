@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 import base64
+import os
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
@@ -10,9 +11,17 @@ st.set_page_config(
 )
 
 # ---------------- LOGO FUNCTION ----------------
+
+BASE_DIR = os.path.dirname(__file__)
+
 def get_base64(img_path):
-    with open(img_path, "rb") as f:
+    full_path = os.path.join(BASE_DIR, img_path)
+    with open(full_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
+
+logo1 = get_base64("logo1.png")
+logo2 = get_base64("logo2.png")
+logo3 = get_base64("logo3.png")
 
 logo1 = get_base64("logo1.png")
 logo2 = get_base64("logo2.png")
