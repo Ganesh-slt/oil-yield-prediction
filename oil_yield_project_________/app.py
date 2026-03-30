@@ -106,9 +106,15 @@ with col3:
 st.markdown("---")
 
 # ---------------- LOAD MODEL ----------------
-model = joblib.load("model/model.pkl")
-# ---------------- LOAD DATA FOR DROPDOWN ----------------
-df = pd.read_csv("data/data.csv")
+BASE_DIR = os.path.dirname(__file__)
+
+model_path = os.path.join(BASE_DIR, "oil_yield_project____", "model", "model.pkl")
+data_path = os.path.join(BASE_DIR, "oil_yield_project____", "data", "data.csv")
+
+model = joblib.load(model_path)
+
+# ---------------- LOAD DATA FOR DROPDOWN ----------------S
+df = pd.read_csv(data_path)
 
 season_list = sorted(df["season"].dropna().unique())
 design_list = sorted(df["design"].dropna().unique())
